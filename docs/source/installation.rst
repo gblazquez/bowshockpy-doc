@@ -5,7 +5,7 @@ After installing the :doc:`dependencies`, there are two ways to install **bowsho
 
 
 Installation using pip
----------
+----------------------
 
 Within a python environment with the required :doc:`dependencies` installed, **bowshockpy** can be installed from pip:
 
@@ -15,7 +15,7 @@ Within a python environment with the required :doc:`dependencies` installed, **b
 
 
 Installation from source repository
------------------------------
+-----------------------------------
 
 You can install **bowshockpy** from the source by cloning the `GitHub repository <https://github.com/gblazquez/bowshockpy>`_:
 
