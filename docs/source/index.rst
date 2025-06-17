@@ -1,4 +1,4 @@
-bowshockpy
+About
 ===================================
 
 **bowshockpy** is a Python package that generates synthetic spectral cubes, PV diagrams, and moment images for a simple analytical jet-driven bowshock model, using the prescription for protostellar jets presented in Tabone et al. 2018. 
@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
 
-   bowshockpy <self>
+   about <self>
    dependencies
    installation 
    usage
