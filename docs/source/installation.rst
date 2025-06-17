@@ -1,7 +1,7 @@
 installation
 ============
 
-After installing the :doc:`dependencies`, there are two ways to install **bowshockpy**:
+After installing the :doc:`dependencies`, there are two ways to install **bowshockpy**
 
 
 Installation using pip
