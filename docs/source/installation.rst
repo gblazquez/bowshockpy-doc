@@ -7,7 +7,7 @@ After installing the :doc:`dependencies`, there are two ways to install **bowsho
 Installation using pip
 ---------
 
-To use **bowshockpy**, first install it using pip:
+Within a python environment with the required :doc:`dependencies` installed, **bowshockpy** can be installed from pip:
 
 .. code-block:: console
 
