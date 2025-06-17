@@ -3,7 +3,7 @@ Usage
 
 There are two ways to use bowshockpy
 
-Using a configuration file
+From a configuration file
 --------------------------
 
 Two options, either from terminal
@@ -18,8 +18,8 @@ Or importing bowshockpy, for example:
 >>> import bowshockpy as bp
 >>> bp.generate_bowshock("bowshock_params.py")
 
-Scripting using bowshockpy params
----------------------------------
+From a personal script using bowshockpy package
+---------------------------------------------
 
 
 >>> import bowshockpy as bp
