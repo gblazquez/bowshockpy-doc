@@ -18,5 +18,6 @@ Contents
    dependencies
    installation 
    usage
-   conffile
+   configurationfile
+   comass
    api
