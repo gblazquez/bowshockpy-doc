@@ -1,34 +1,25 @@
 Usage
 =====
 
-.. _installation:
+There are two ways to use bowshockpy
 
-Installation
-------------
+Using a configuration file
+--------------------------
 
-To use Lumache, first install it using pip:
+Two options, either from terminal
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ python generate_bowshock.py 
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Or importing bowshockpy, for example:
 
-.. autofunction:: lumache.get_random_ingredients
+>>> import bowshockpy as bp
+>>> bp.generate_bowshock("bowshock_params.py")
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Scripting using bowshockpy params
+---------------------------------
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+>>> import bowshockpy as bp

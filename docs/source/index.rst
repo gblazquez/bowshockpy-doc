@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+bowshockpy
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**bowshockpy** is a Python package that generates synthetic spectral cubes, PV diagrams, and moment images for a simple analytical jet-driven bowshock model, using the prescription for protostellar jets presented in Tabone et al. 2018. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`installation` and :doc:`usage` sections. 
 
 .. note::
 
