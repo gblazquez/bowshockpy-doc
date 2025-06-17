@@ -1,20 +1,23 @@
 installation
-=====
+============
 
-There are two ways you can install bowshockpy
+After installing the :doc:`dependencies`, there are two ways to install **bowshockpy**
 
-From pip
+:
+Installation using pip
 ---------
 
-To use bowshockpy, first install it using pip:
+To use **bowshockpy**, first install it using pip:
 
 .. code-block:: console
 
    (.venv) $ pip install bowshockpy 
 
 
-Cloning the github repository
+Installation from source repository
 -----------------------------
+
+You can install **bowshockpy** from the source by cloning the `GitHub repository <https://github.com/gblazquez/bowshockpy>`_:
 
 .. code-block:: console
 
