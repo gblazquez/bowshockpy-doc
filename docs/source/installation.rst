@@ -1,13 +1,13 @@
-installation
+Installation
 ============
 
-After installing the :doc:`dependencies`, there are two ways to install **bowshockpy**
+You can install **bowshockpy** using ``pip``, either from PyPI or from the source repository. The :doc:`Dependencies` will be automatically installed.
 
 
-Installation using pip
+Installation from PyPI
 ----------------------
 
-Within a python environment with the required :doc:`dependencies` installed, **bowshockpy** can be installed from pip:
+You can get **bowshockpy** from PyPI using pip:
 
 .. code-block:: console
 
@@ -22,4 +22,6 @@ You can install **bowshockpy** from the source by cloning the `GitHub repository
 .. code-block:: console
 
     $ git clone https://github.com/gblazquez/bowshockpy.git 
+    $ cd bowshockpy
+    $ pip install .
 

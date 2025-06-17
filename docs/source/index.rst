@@ -14,7 +14,9 @@ Contents
 
 .. toctree::
 
+   bowshockpy <self>
    dependencies
    installation 
    usage
+   conffile
    api
