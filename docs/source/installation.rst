@@ -1,4 +1,4 @@
-Installation
+installation
 =====
 
 There are two ways you can install bowshockpy

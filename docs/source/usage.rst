@@ -1,4 +1,4 @@
-Usage
+usage
 =====
 
 There are two ways to use bowshockpy
